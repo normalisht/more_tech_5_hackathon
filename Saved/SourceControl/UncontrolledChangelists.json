@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/web/CropoutSampleProject/Content/Blueprint/Interactable/Extras/E_ResourceType.uasset",
+				"D:/web/CropoutSampleProject/Content/Blueprint/Core/Extras/BPC_Cheats.uasset",
+				"D:/web/CropoutSampleProject/Content/UI/UI_Elements/UIE_Cost.uasset",
+				"D:/web/CropoutSampleProject/Content/UI/UI_Elements/UIE_Resource.uasset",
+				"D:/web/CropoutSampleProject/Content/UI/Materials/Textures/T_Rsrc_Food_DA.uasset",
+				"D:/web/CropoutSampleProject/Content/Village.umap",
+				"D:/web/CropoutSampleProject/Content/Blueprint/Core/GameMode/BP_GM.uasset",
+				"D:/web/CropoutSampleProject/Content/UI/Game/UI_Layer_Game.uasset",
+				"D:/web/CropoutSampleProject/Content/Blueprint/Interactable/Resources/BP_Resource.uasset",
+				"D:/web/CropoutSampleProject/Content/Blueprint/Interactable/Extras/DT_Buidables.uasset",
+				"D:/web/CropoutSampleProject/Content/Blueprint/Villagers/AI/Tasks/BTT_InitialCollectResource.uasset",
+				"D:/web/CropoutSampleProject/Content/Blueprint/Villagers/AI/BT_CollectResource.uasset",
+				"D:/web/CropoutSampleProject/Content/Blueprint/Interactable/Resources/BP_Shrub.uasset",
+				"D:/web/CropoutSampleProject/Content/Blueprint/Interactable/Resources/BP_Crop_Corn.uasset",
+				"D:/web/CropoutSampleProject/Content/Blueprint/Interactable/Resources/BP_Crop_Lettuce.uasset",
+				"D:/web/CropoutSampleProject/Content/Blueprint/Interactable/Resources/BP_Crop_Pumpkin.uasset",
+				"D:/web/CropoutSampleProject/Content/Blueprint/Interactable/Resources/BP_Crop_Wheat.uasset",
+				"D:/web/CropoutSampleProject/Content/Blueprint/Interactable/Resources/BP_Stone.uasset",
+				"D:/web/CropoutSampleProject/Content/Blueprint/Interactable/Resources/BP_Tree.uasset",
+				"D:/web/CropoutSampleProject/Content/Blueprint/Core/GameMode/BPI_Resource.uasset",
+				"D:/web/CropoutSampleProject/Content/Blueprint/Villagers/AI/Tasks/BTT_TransferResource.uasset",
+				"D:/web/CropoutSampleProject/Content/Blueprint/Villagers/BP_Villager.uasset",
+				"D:/web/CropoutSampleProject/Content/UI/MainMenu/UI_MainMenu.uasset",
+				"D:/web/CropoutSampleProject/Content/Blueprint/Interactable/BP_Interactable.uasset",
+				"D:/web/CropoutSampleProject/Content/UI/Game/UI_GameMain.uasset",
+				"D:/web/CropoutSampleProject/Content/UI/UI_Elements/UI_Build.uasset",
+				"D:/web/CropoutSampleProject/Content/UI/UI_Elements/UI_EndGame.uasset",
+				"D:/web/CropoutSampleProject/Content/UI/UI_Elements/UI_Pause.uasset",
+				"D:/web/CropoutSampleProject/Content/UI/UI_Elements/UI_BuildConfirm.uasset",
+				"D:/web/CropoutSampleProject/Content/Blueprint/Core/GameMode/BP_GI.uasset",
+				"D:/Program Files/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/StandardFunctionLibrary/StandardFunctionLibrary.uasset"
+			]
+		}
+	]
+}
